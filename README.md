@@ -5,7 +5,7 @@ Aspiring **Computational Astrophysicist** | Passion for physics, simulation, and
 
 ---
 
-- Languages: Python, Java, C basics  
-- Libraries: NumPy, SciPy, SymPy, Matplotlib, Pandas  
-- Methods: Monte Carlo, FEM 
-- Tools: Git, VS Code, Jupyter  
+- Languages: Python, Java, C  
+- Libraries: NumPy, SciPy, SymPy, Matplotlib, Pandas, Numba
+- Methods: Monte Carlo, FEM, FTCS, Crank-Nicholsin
+- Tools: Git/GitHub, VS Code, Jupyter  
