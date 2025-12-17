@@ -6,12 +6,11 @@
 **BTech Metallurgy & Materials Engineering, IIT Madras (2023–2027)**  
 Aspiring **Computational Astrophysicist**
 
----
 
 
 ## **Research Focus**
-
 I am an undergraduate engineering student with a strong interest in **computational and theoretical physics**, particularly in **transport phenomena and astrophysical fluid dynamics**. My work emphasizes **deriving models from first principles**, implementing **numerical solvers from scratch**, and performing **systematic validation and convergence analysis**.
+
 ---
 
 ## **Technical Capabilities**
